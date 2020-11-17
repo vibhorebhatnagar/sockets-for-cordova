@@ -1,0 +1,19 @@
+{
+  "name": "sockets-for-cordova",
+  "version": "1.0.0",
+  "description": "sockets-for-cordova =================== This Cordova plugin provides JavaScript API, that allows you to communicate with server through TCP protocol.",
+  "main": "socket.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vibhorebhatnagar/sockets-for-cordova.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vibhorebhatnagar/sockets-for-cordova/issues"
+  },
+  "homepage": "https://github.com/vibhorebhatnagar/sockets-for-cordova#readme"
+}
